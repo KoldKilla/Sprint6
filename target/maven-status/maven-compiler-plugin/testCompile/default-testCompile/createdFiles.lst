@@ -1,0 +1,7 @@
+required\tests\LionMockTest.class
+required\tests\CatTest.class
+required\tests\FelineTest.class
+required\tests\LionTest.class
+required\tests\AnimalTest.class
+required\tests\LionParamTest.class
+required\tests\AnimalParamTest.class
